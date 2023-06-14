@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  authPet
+
+  Created by Анатолий Фетелеу on 14.02.2023.
+  
+*/
+
+"welcoming_message" = "Привет, приятель! 😎";
+"welcoming_users_message" = "Привет, ";
+"login_label" = "Логин";
+"login_placeholder" = "Введите свой логин...";
+"password_label" = "Пароль";
+"password_placeholder" = "Введите свой пароль...";
+"submit_label" = "Отправить";
+"waiting_message" = "Пару мгновений...";
+"status_accepted" = "Успешно";
+"status_declined" = "Ошибка";
